@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/rheey90/aws-ec2-nodejs-server-deployment-demo#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "p5": "^1.11.7"
   }
 }
